@@ -8,7 +8,7 @@ A sleek, modern newsletter builder built with **React**, **Vite**, **TypeScript*
 ## 🎥 Demo
 
 (https://drive.google.com/drive/folders/1DgFNlM7xT2J0mcf87DepELoa95QZ6N8f)
-*Click the link above to see the app in action.*
+*Click the link to see the app in action.*
 
 ---
 
